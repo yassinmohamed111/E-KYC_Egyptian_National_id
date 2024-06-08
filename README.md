@@ -2,9 +2,13 @@
 
 Welcome to the E-KYC Egyptian National ID App repository! This project simulates an e-KYC (Electronic Know Your Customer) feature for an e-payment app, inspired by the Egyptian company Al Ahly Momken. Our main focus is on the OCR (Optical Character Recognition) part.
 
-## 📂 Repository Link
+## 📂 DEMO:
 
-[GitHub Repository](https://github.com/yassinmohamed111/E-KYC_Egyptian_National_id)
+
+
+https://github.com/yassinmohamed111/E-KYC_Egyptian_National_id/assets/108435195/52e2ea61-7a81-45b3-8bde-ffa687485e83
+
+
 
 ## 🚀 Project Overview
 
